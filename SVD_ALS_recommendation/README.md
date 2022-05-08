@@ -9,3 +9,5 @@
 
 * LFM_recommendation.py: numpy手撸的LFM
 
+* LFM_by_superise.py: surperise 库里LFM（库里命名为svd)的示例
+
