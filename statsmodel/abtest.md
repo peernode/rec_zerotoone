@@ -191,3 +191,7 @@ print(z_score, p_value)
 * 常见公式
 ![avatar](./stats2.jpg)
 ![avatar](./stats1.jpg)
+
+## 6. 问题
+
+* Z检验和T检验的适用场景
